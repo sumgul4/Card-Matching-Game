@@ -5,6 +5,7 @@
 - Easy level: 4x4 board, computer remembers 2 cards.
 - Medium level: 6x6 board, computer remembers 6 cards.
 - Hard level: 8x8 board, computer remembers 16 cards.
+
 If a player matches a pair, they get another turn.
 The player who matches more than half the cards wins the game.
   
